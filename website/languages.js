@@ -163,7 +163,7 @@ const languages = [
   },
   {
     enabled: true,
-    name: 'Українська',
+    name: 'English',
     tag: 'uk',
   },
   {
